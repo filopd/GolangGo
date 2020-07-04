@@ -21,5 +21,6 @@ Project 2. "go run PrjComicMischief.go"
 
 ===================================
 
+Cheat Sheet 3: https://www.codecademy.com/learn/learn-go/modules/learn-go-conditionals/cheatsheet
 
 
