@@ -25,3 +25,8 @@ Cheat Sheet 3: https://www.codecademy.com/learn/learn-go/modules/learn-go-condit
 
 Project 3. "go run PrjbankHeist.go"
 
+===================================
+
+Cheat Sheet 4: https://www.codecademy.com/learn/learn-go/modules/learn-go-functions/cheatsheet
+
+Project 4. "go run PrjInterstellarTravel.go"
